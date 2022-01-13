@@ -1,6 +1,6 @@
 :root {
-    --color-dominant: #0e0231;
-    --color-complement: #0f0f0f;
+    --color-dominant: #fff;
+    --color-complement: #464545;
     --color-contrast: #222121;
     --color-accent: #bef18f;
 }
