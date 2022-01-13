@@ -8,7 +8,7 @@ Wij kregen voor Informatica een nogal vreemde opdracht: trek een kaart uit het s
 
 Zo gezegd, zo gedaan, ben ik eraan begonnen. De superheld die ik had gecreëerd was Hägar The Giant Viking. Een viking die vuur kon spuwen net zoals een draak en die de grootte had van een enorm appartementsgebouw.
 
-![screenshot van mijn superhero website](../assets/images/superhero-website.jpg)
+![screenshot van deze website](../assets/images/superhero-website.jpg)
 
 ## Goede punten
 
