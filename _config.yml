@@ -14,13 +14,13 @@ defaults:
     - scope:
           path: "_projects"
       values:
-          banner: "/assets/images/woods.jpg"
+          banner: "/assets/images/lamp-project.jpg"
           excerpt_separator: "<!--more-->"
           layout: "project"
     - scope:
           path: "_posts"
       values:
-          banner: "/assets/images/woods.jpg"
+          banner: "/assets/images/blog.jpg"
           excerpt_separator: "<!--more-->"
           layout: "blogpost"
     - scope:
