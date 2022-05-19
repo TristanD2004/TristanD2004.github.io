@@ -17,7 +17,7 @@ title: Save Game
 <script src="/assets/javascript/gameobjects/Water.js"></script> 
 
 <!-- game class -->
-<script src="assets/javascript/SaveGame.js"></script>
+<script src="/assets/javascript/SaveGame.js"></script>
 
 <!-- p5 sketch -->
 <script src="/assets/javascript/sketch.js"></script>
