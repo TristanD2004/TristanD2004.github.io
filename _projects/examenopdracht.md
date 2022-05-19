@@ -8,7 +8,7 @@ Het jaar liep zo goed op zijn einde en wie Kerstmis zegt, denkt ook meteen aan d
 
 De opdracht was simpel, bouw een website met alles wat we gezin hadden de voorbije maanden. We moesten een complete, nieuw website bouwen van nul aan de hand van Markdown, HTML en CSS. Het geheel moest een soort portfolio vormen waar we dan na de feestdagen wat blogposts op moesten schrijven en ook wat meer uitleg moesten geven over onze projecten. 
 
-![screenshot van deze website](/assets/images/portfolio-website.jpg)
+![screenshot van deze website](/assets/images/examenPortfolio.jpg)
 
 ## Goede punten
 
