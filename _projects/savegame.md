@@ -6,18 +6,18 @@ title: Save Game
 <script src="lib/p5.play.js"></script>
 
 <!-- lib bestanden -->
-<script src="assets/javascript/lib/GameCanvas.js"></script>
-<script src="assets/javascript/lib/GameObject.js"></script>
-<script src="assets/javascript/lib/Game.js"></script>
+<script src="/assets/javascript/lib/GameCanvas.js"></script>
+<script src="/assets/javascript/lib/GameObject.js"></script>
+<script src="/assets/javascript/lib/Game.js"></script>
 
 <!-- game objecten -->
-<script src="assets/javascript/gameobjects/Player.js"></script>
-<script src="assets/javascript/gameobjects/Tile.js"></script>
-<script src="assets/javascript/gameobjects/TileFloor.js"></script>
-<script src="assets/javascript/gameobjects/Water.js"></script> 
+<script src="/assets/javascript/gameobjects/Player.js"></script>
+<script src="/assets/javascript/gameobjects/Tile.js"></script>
+<script src="/assets/javascript/gameobjects/TileFloor.js"></script>
+<script src="/assets/javascript/gameobjects/Water.js"></script> 
 
 <!-- game class -->
-<script src="scripts/SaveGame.js"></script>
+<script src="assets/javascript/SaveGame.js"></script>
 
 <!-- p5 sketch -->
-<script src="assets/javascript/sketch.js"></script>
+<script src="/assets/javascript/sketch.js"></script>
