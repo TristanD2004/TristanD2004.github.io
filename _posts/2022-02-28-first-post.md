@@ -6,7 +6,7 @@ title:  "De laatste nieuwtjes van Apple"
 
 In 2019 werd bekendgemaakt dat Apple plannen zou hebben om de eerste vouwbare iPhone op de markt te brengen. Ze zouden de eerste zijn die een vouwbare smartphone zouden releasen, ware het niet dat Samsung net dezelfde ideeën had. Nu Samsung volop bezig is met deze smartphone voor te stellen, laat Apple weten dat de eerste vouwbare iPhone, ten vroegste zou worden uitgebracht in 2025. Zij geven de schuld aan de vertraging bij verschillende, Aziatische fabrikanten. Ook werd het idee van de vouwbare notebook geintroduceerd.
 
-![foto van hoe zo'n iPhone eruit zou zien](../assets/images/vouwbare-iphone.jpg)
+![foto van hoe zo'n iPhone eruit zou zien](/assets/images/vouwbare-iphone.jpg)
 
 <!--more-->
 
@@ -16,7 +16,7 @@ Dit jaar kunnen we nieuwe modellen van de Apple Watch verwachten. Dit keer zou A
 
 Er zouden in totaal 3 nieuwe modellen worden gelanceerd, de 'Apple Watch Series 8', een verbeterde versie van de 'Apple Watch SE' en een Apple Watch die gericht is op extreme sporten. Apple heeft alleen nog niet veel gelost over de nieuwe functies, dus het blijft hier en daar wat gissen naar wat die zouden kunnen zijn. Ook wordt er gefluisterd dat Apple voor een nieuw uiterlijk zou gaan, maar ook dat blijven speculaties.
 
-![foto van de nieuwe Apple Watches](../assets/images/apple-watch-series8.jpg)
+![foto van de nieuwe Apple Watches](/assets/images/apple-watch-series8.jpg)
 
 ## De nieuwste Macbooks
 
@@ -28,4 +28,4 @@ De bekendste Macbooks zouden de eerste zijn die geprofiteerd hebben van de nieuw
 
 Oorspronkelijk zouden de silicon-chips oftewel de zogenaamde 'Apple Silicon M2' al worden gereleased eind 2021 of begin 2022, maar deze wordt keer op keer uitgesteld. Vele insiders kunnen wel al zeggen dat de tijd van wachten dit jaar over zou zijn.
 
-![foto van de Apple Silicon M2](../assets/images/Apple-M2-Chip.jpg)
+![foto van de Apple Silicon M2](/assets/images/Apple-M2-Chip.jpg)
