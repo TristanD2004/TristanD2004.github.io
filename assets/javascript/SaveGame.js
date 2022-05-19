@@ -15,7 +15,7 @@ class SaveGame extends Game {
             floors.push(new TileFloor(i * 70, 382, 70));
         }
 
-        loadJSON("assets/javascript/images/objects/tiles.json", allFrames => {
+        loadJSON("/assets/javascript/images/objects/tiles.json", allFrames => {
         let frames = [];
         let spritesheet = null;
         let animation = null;
@@ -23,7 +23,7 @@ class SaveGame extends Game {
         frames = [
             allFrames[73],
         ];
-        spritesheet = loadSpriteSheet('assets/javascript/images/objects/tiles.png', frames);
+        spritesheet = loadSpriteSheet('/assets/javascript/images/objects/tiles.png', frames);
         animation = loadAnimation(spritesheet);
 
         floors.forEach(tile => { 
@@ -45,7 +45,7 @@ class SaveGame extends Game {
         frames = [
             allFrames[65]
         ];
-        spritesheet = loadSpriteSheet('assets/javascript/images/objects/tiles.png', frames);
+        spritesheet = loadSpriteSheet('/assets/javascript/images/objects/tiles.png', frames);
         animation = loadAnimation(spritesheet);
         }); 
     }

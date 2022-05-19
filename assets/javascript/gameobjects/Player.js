@@ -6,7 +6,7 @@ class Player extends GameObject {
     constructor(x, y, size) {
         super(x, y, size, size, true);
 
-        loadJSON("assets/javascript/images/characters/character_malePerson_sheet.json",
+        loadJSON("/assets/javascript/images/characters/character_malePerson_sheet.json",
             (allFrames) => {
                 let frames = [];
                 let spritesheet = null;
@@ -21,7 +21,7 @@ class Player extends GameObject {
                     allFrames[42],
                     allFrames[43]
                 ];
-                spritesheet = loadSpriteSheet("assets/javascript/images/characters/character_malePerson_sheet.png", frames);
+                spritesheet = loadSpriteSheet("/assets/javascript/images/characters/character_malePerson_sheet.png", frames);
                 animation = loadAnimation(spritesheet);
                 animation.frameDelay = 90;
                 this.addAnimation("walk", animation);
@@ -29,14 +29,14 @@ class Player extends GameObject {
                 frames = [
                     allFrames[1]
                 ];
-                spritesheet = loadSpriteSheet("assets/javascript/images/characters/character_malePerson_sheet.png", frames);
+                spritesheet = loadSpriteSheet("/assets/javascript/images/characters/character_malePerson_sheet.png", frames);
                 animation = loadAnimation(spritesheet);
                 this.addAnimation("jump", animation);
 
                 frames = [
                     allFrames[0]
                 ];
-                spritesheet = loadSpriteSheet("assets/javascript/images/characters/character_malePerson_sheet.png", frames);
+                spritesheet = loadSpriteSheet("/assets/javascript/images/characters/character_malePerson_sheet.png", frames);
                 animation = loadAnimation(spritesheet);
                 this.addAnimation("idle", animation);
 
