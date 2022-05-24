@@ -46,4 +46,17 @@ layout: default
     
         {% endfor %}
 
+        {% for post in site.posts %}
+    
+        <a href="{{ post.url }}">
+            <article class="elevated-high bg-complement">
+                <img src="{{post.banner}}" alt="{{post.title}} image" class="full-bleed | banner">
+                <h1>{{ post.title }}</h1>
+                <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date: "%-d-%m-'%y" }}</time>
+                {{ post.excerpt }}
+            </article>
+        </a>
+    
+        {% endfor %}
+
     </section>
