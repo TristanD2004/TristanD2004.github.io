@@ -1,27 +1,29 @@
 ---
-title:  "Blogpost Ander Voorbeeld"
+title:  "Deepfakes, wat is dan nu?"
 ---
 
-## titel 1
+## Wat is deepfake?
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit nulla dignissimos corporis aspernatur laudantium eaque expedita esse blanditiis fugiat a! Magnam laboriosam incidunt cumque explicabo sit non blanditiis accusantium mollitia? Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae similique animi aliquam debitis beatae ratione? Sed quod dolorem vero accusamus explicabo aspernatur voluptatum qui quasi expedita nostrum, recusandae illo ratione?
+Deepfake of deepfakes is een verzameling van beelden, geluiden of teksten die door kunstmatige intelligente software zijn gemaakt. Vaak zie je online foto's of video's verschijnen van personen waarin iets gebeurd dat de persoon in kwestie nooit echt gedaan heeft.
+
+![voorbeeld van zo'n deepfake](/assets/images/deepfake-tomcruise.jpg)
 
 <!--more-->
 
-## titel 2
+## Hoe wordt zo'n deepfake gemaakt?
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequatur quas id reprehenderit culpa recusandae eligendi deleniti alias totam ducimus magnam similique excepturi tenetur molestiae, expedita libero at obcaecati et vitae.
-Laudantium ipsum commodi, excepturi impedit animi voluptatem nihil. Et, placeat iure ex soluta sequi ab dolorem deleniti nisi. Dignissimos at exercitationem reprehenderit quia ratione. Error non perferendis doloremque nam esse!
-Temporibus maxime facilis sequi ipsum porro harum! Consequatur aspernatur aut mollitia optio maxime ducimus, atque sequi eum deleniti nulla recusandae est, obcaecati fuga sunt ratione ab ipsa corporis inventore ex.
-Debitis magni sequi sunt? Sit magni dignissimos accusantium nam tenetur aliquid odio assumenda dolorem vero corporis ipsam qui quo officia itaque aspernatur fuga ducimus eum natus, dolor ea exercitationem enim.
-Nulla ipsa modi quaerat molestiae eum accusamus, soluta vero vel placeat odit consequatur corporis explicabo at minima similique, a dolorum tempore cum nihil? Voluptate esse quo sapiente accusamus ex cupiditate!
+De technologie achter deepfakes bestaat al even. Denk hierbij aan de verschillende gezichtfilters op Snapchat of Instagram. De app in kwestie scant je gezicht en weet perfect waar je ogen, neus en mond zitten. Zo kan deze een passend filter maken. Voorbeelden hiervan zijn de dierenfilters of de nieuwe filter waarbij iedereen moet huilen.
 
-## titel 3
+![foto van de huilfilter](/assets/images/cryingfilter-snapchat.jpg)
 
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis unde dolorum aliquid itaque, soluta ipsum iure, incidunt eveniet, ullam sunt atque! Inventore architecto porro optio placeat, fugiat illo dolores aperiam.
-Dolore eius earum, quis voluptatibus voluptas aliquam quam odio beatae nam blanditiis necessitatibus eveniet corporis facilis sapiente ipsum est laboriosam soluta! Assumenda in velit officiis unde culpa dolorem alias laborum!
-Hic aliquid assumenda maiores, temporibus iste omnis saepe repudiandae, necessitatibus repellendus quisquam quo eveniet sed vel! Quod veniam vel impedit praesentium enim accusantium, ut eum tenetur officiis! Veniam, illo corporis.
+Deze techniek, ook wel 'deep learning' genoemd, bestaat uit kunstmatige intelligentie. Met deze techniek worden computers aan de hand van datasets met foto's getraind om gezichtskenmerken te herkennen en te manipuleren. Doorheen de jaren is dit pijlsnel ontwikkeld waardoor het steeds beter lukt om nepfoto's of -video's te maken. Doordat de mond bijvoorbeeld perfect meebeweegt bij de gesproken tekst en computers geschoold zijn in stemherkenning, is het de dag van vandaag makkelijker om iemand iets te laten zeggen wat die in werkelijkheid nooit heeft gezegd.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque distinctio qui deserunt est vitae, ipsum sunt dolor eius adipisci! Vitae aut maiores officia atque tempora facere iusto doloremque. Perferendis, voluptatem.
-Odio perspiciatis maxime molestias. Sunt facilis ut alias, quod officiis temporibus error ad odit nesciunt nostrum maxime veniam accusamus itaque iure impedit quasi explicabo placeat. Eveniet dignissimos cumque quos et?
-Tempore, officia pariatur aperiam velit voluptate minima nesciunt hic sed architecto, aliquid ea in cum, provident deleniti obcaecati ipsam sapiente. Nam dolore sapiente illo fugit velit consequuntur quam beatae autem.
+## Positieve en negatieve kanten
+
+Deze deepfakes brengen natuurlijk een heleboel gevaren met zich mee. De snelle ontwikkeling van deze software zorgt ervoor dat het steeds lastiger is om het echte materiaal te onderscheiden van het nepmateriaal. Dit heeft natuurlijk zijn positieve kanten, maar ook zijn negatieve kanten. 
+
+In de filmindustrie kunnen jonge acteurs ouder worden gemaakt of andersom. Ook kunnen ze overleden acteurs terug op het scherm toveren. Denk maar aan de laatste scène uit 'Furious 7', hoofdrolspeler Paul Walker overleed tijdens de opnames in een auto-ongeluk. Met de hulp van deepfake werd zijn gezicht geplakt om die van een stand-in zodat leek alsof hij nog steeds die rol vertolkte.
+
+![foto van Paul Walker in 'Furious 7'](/assets/images/paulwalker-furious7.png)
+
+Mogelijke gevaren zijn niet te overzien. Deepfakes gaan vaak hand in hand met fakenews. Beelden van politici kunnen gemanipuleerd worden en hen dingen laten zeggen die ze nooit gezegd hebben. Dit kan grote gevolgen hebben bij belangrijke verkiezingen bijvoorbeeld. Ook worden deepfakes gebruikt binnen de pornografie. Vrouwen worden vaak ongewild op het lichaam van pornosterren gekleefd, het kan dan gaan over bekende actrices of soms zelfs doodgewone vrouwen. Dit wordt 'deep nudes' genoemd. Het kan vernederend, intimiderend of zelfs schadelijk zijn wanneer je op die manier wordt afgebeeld en dit terechtkomt bij mensen uit je omgeving.
