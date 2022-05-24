@@ -22,7 +22,7 @@ Deze techniek, ook wel 'deep learning' genoemd, bestaat uit kunstmatige intellig
 
 Deze deepfakes brengen natuurlijk een heleboel gevaren met zich mee. De snelle ontwikkeling van deze software zorgt ervoor dat het steeds lastiger is om het echte materiaal te onderscheiden van het nepmateriaal. Dit heeft natuurlijk zijn positieve kanten, maar ook zijn negatieve kanten. 
 
-In de filmindustrie kunnen jonge acteurs ouder worden gemaakt of andersom. Ook kunnen ze overleden acteurs terug op het scherm toveren. Denk maar aan de laatste scène uit 'Furious 7', hoofdrolspeler Paul Walker overleed tijdens de opnames in een auto-ongeluk. Met de hulp van deepfake werd zijn gezicht geplakt op die van een stand-in zodat leek alsof hij nog steeds die rol vertolkte.
+In de filmindustrie kunnen jonge acteurs ouder worden gemaakt of andersom. Ook kunnen ze overleden acteurs terug op het scherm toveren. Denk maar aan de laatste scène uit 'Furious 7', hoofdrolspeler Paul Walker overleed tijdens de opnames in een auto-ongeluk. Met de hulp van deepfake werd zijn gezicht geplakt op die van een stand-in (zijn broer Caleb), zodat leek alsof hij nog steeds die rol vertolkte.
 
 ![foto van Paul Walker in 'Furious 7'](/assets/images/paulwalker-furious7.png)
 
