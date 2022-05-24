@@ -1,5 +1,5 @@
 ---
-title: My Blog
+title: De Blog van Tristan
 ---
 
 ## Tristan D'hondt
