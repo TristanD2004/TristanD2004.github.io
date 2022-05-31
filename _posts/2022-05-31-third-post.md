@@ -14,11 +14,13 @@ De naam zegt het zelf al, een soort virus op je computer. Het woord 'virus' heef
 
 Computervirussen heb je in allerlei maten en gewichten. Het zijn er veel te veel om op te noemen, daarom volgen nu twee, bekende voorbeelden:
 
-- Ransomware: een functie die je computer volledig infecteert en alle gevoelige informatie versleutelt. De hacker in kwestie eist dan losgeld voor de vrijgave hiervan. Als je weigert te betalen, gaan de gegevens verloren. Bekende bedrijven die hier mee te maken krijgen, kunnen hierdoor enorm veel info verliezen. 
+# Randsomware
+Een functie die je computer volledig infecteert en alle gevoelige informatie versleutelt. De hacker in kwestie eist dan losgeld voor de vrijgave hiervan. Als je weigert te betalen, gaan de gegevens verloren. Bekende bedrijven die hier mee te maken krijgen, kunnen hierdoor enorm veel info verliezen. 
 
 ![illustratie van Randsomware](/assets/images/ransomware.jpg)
 
-- Het Trojaans paard: een functie die verborgen zit in een programma dat door de gebruiker wordt geïnstalleerd. Deze functie kan toegang tot de computer verkrijgen door hackers en via die weg schade toebrengen aan de computergegevens of de privacy van de gebruiker. Het is vernoemd naar het Paard van Troje waarin Griekse soldaten de stad Troje binnenkwamen. Het wordt vaak verstuurd als bijlage bij een e-mail, daarom is het belangrijk om altijd na te kijken wat je downloadt. Een Trojaans paard is eigenlijk niet echt een virus, maar toch wordt in die categorie geplaatst. 
+# Trojaans paard
+Een functie die verborgen zit in een programma dat door de gebruiker wordt geïnstalleerd. Deze functie kan toegang tot de computer verkrijgen door hackers en via die weg schade toebrengen aan de computergegevens of de privacy van de gebruiker. Het is vernoemd naar het Paard van Troje waarin Griekse soldaten de stad Troje binnenkwamen. Het wordt vaak verstuurd als bijlage bij een e-mail, daarom is het belangrijk om altijd na te kijken wat je downloadt. Een Trojaans paard is eigenlijk niet echt een virus, maar toch wordt in die categorie geplaatst. 
 
 ![illustratie van een Trojaans paard](/assets/images/Trojaans_Paard.png)
 
