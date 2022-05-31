@@ -1,5 +1,5 @@
 ---
-title:  "Deepfakes, wat is dan nu?"
+title:  "Deepfakes, wat is dat?"
 ---
 
 ## Wat is deepfake?
