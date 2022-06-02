@@ -1,0 +1,124 @@
+:root {
+    --color-dominant: #FFFFFF;
+    --color-contrast: #c5d424;
+    --color-complement: #F1F1F1;
+
+    /* --color-dominant: #683335;
+    --color-complement: #E2E2E2;
+    --color-contrast: #c5d424;
+    --color-accent: #E7EFC5; */
+
+    --card-padding: 1rem;
+    --card-distance: 2rem;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+html {
+    font-family: sans-serif;
+    line-height: 1.5;
+}
+
+body {
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    max-height: 50%;
+}
+
+main {
+    padding: 1rem;
+}
+
+h1, h2, h3, h4 {
+    line-height: .9;
+}
+
+#main-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#main-menu>ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#main-menu .main-menu_button {
+    flex: 1;
+}
+
+#main-menu .main-menu_button>a {
+    display: block;
+    padding: 0.5rem;
+    height: 2.5rem;
+    text-align: center;
+}
+
+.title-card {
+    margin: 1rem;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+.card {
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+#source {
+    text-align: center;
+    padding: 1rem;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.button {
+    background-color: var(--color-dominant);
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+@media only screen and (min-width: 600px) {
+    img {
+        display: block;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+
+
+}
