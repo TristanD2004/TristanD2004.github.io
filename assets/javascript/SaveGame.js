@@ -1,6 +1,7 @@
 const GRAVITY = 0.4;
 
 class SaveGame extends Game {
+    #imgPath = "/assets/javascript/images/objects/";
     #player = null;
     constructor() {
         super();
@@ -15,7 +16,7 @@ class SaveGame extends Game {
                 floors.push(new TileFloor(i * 70, 382, 70));
         }
 
-        loadJSON("assets/images/objects/tiles.json", allFrames => {
+        loadJSON(this.#imgPath + "tiles.json", allFrames => {
             let frames = [];
             let spritesheet = null;
             let animation = null;
@@ -26,7 +27,7 @@ class SaveGame extends Game {
                 else
                     frames = [allFrames[73]];
 
-                spritesheet = loadSpriteSheet('assets/images/objects/tiles.png', frames);
+                spritesheet = loadSpriteSheet(this.#imgPath + 'tiles.png', frames);
                 animation = loadAnimation(spritesheet);
 
                 tile.addAnimation("floor", animation);
